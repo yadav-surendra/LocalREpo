@@ -1,0 +1,1 @@
+this is am example to shoe how to add local repository to the github.
